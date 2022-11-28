@@ -1,0 +1,5 @@
+D:\Dropbox\AW skolprojekt\VISUAL STUDIO\test1\test1\obj\Debug\net6.0\test1.csproj.AssemblyReference.cache
+D:\Dropbox\AW skolprojekt\VISUAL STUDIO\test1\test1\obj\Debug\net6.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\AW skolprojekt\VISUAL STUDIO\test1\test1\obj\Debug\net6.0\test1.AssemblyInfoInputs.cache
+D:\Dropbox\AW skolprojekt\VISUAL STUDIO\test1\test1\obj\Debug\net6.0\test1.AssemblyInfo.cs
+D:\Dropbox\AW skolprojekt\VISUAL STUDIO\test1\test1\obj\Debug\net6.0\test1.csproj.CoreCompileInputs.cache
